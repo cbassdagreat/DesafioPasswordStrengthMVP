@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DesafioPasswordStrengthMVP</string>
+    <string name="fuerza_clave">Fuerza Clave</string>
+    <string name="password">Password</string>
 </resources>
